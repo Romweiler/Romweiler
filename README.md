@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to build a SaaS with Mistral.ai. Not so easy but really exciting.
 - 💞️ I’m looking to collaborate on local projects in Bali.
 - 📫 How to reach me ? Text me and if you stay in Bali we can meet 🤙
-- ⚡ Fun fact: For most people, a right is a left.
+- ⚡ Fun fact: my astrology sign depends on magazines
 
 <!---
 Romweiler/Romweiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
